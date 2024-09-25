@@ -1,1 +1,2 @@
-# zoom-project
+# Zoom
+A full stack video conferencing web application.
